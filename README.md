@@ -19,21 +19,6 @@ A responsive travel website developed using HTML5, CSS3, and JavaScript. The pla
 - JavaScript
 - Local Storage API
 
-## Project Structure
-
-```text
-TravelTourismPlatform/
-│
-├── index.html
-├── about.html
-├── attractions.html
-├── contact.html
-├── register.html
-├── script.js
-├── style.css
-└── README.md
-```
-
 ## How to Run
 
 1. Download or clone the project.
